@@ -17,35 +17,35 @@
 
 ### 🖥️ Frontend
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" style="background-color: white; border-radius: 6px; padding: 4px;"/>
-  <img src="https://camo.githubusercontent.com/c19794479239935607c6c2e501a2f67e495e567ef91e0a1524474d645f52f86c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" width="50" style="background-color: white; border-radius: 6px; padding: 4px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://camo.githubusercontent.com/c19794479239935607c6c2e501a2f67e495e567ef91e0a1524474d645f52f86c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
 </div>
 
 ### 🛠️ Backend
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" style="background-color: white; border-radius: 6px; padding: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
 </div>
 
 ### 🗄️ Database
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
 </div>
 
 ### 📱 Mobile
 <div align="left">
-  <img src="https://reactnative.dev/img/header_logo.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" />
+  <img src="https://reactnative.dev/img/header_logo.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
 </div>
 
 ### ⚙️ DevOps & Cloud
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
 </div>
 
 ---
