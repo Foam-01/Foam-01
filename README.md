@@ -17,9 +17,13 @@
 
 ### 🖥️ Frontend
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
-  <img src="https://camo.githubusercontent.com/c19794479239935607c6c2e501a2f67e495e567ef91e0a1524474d645f52f86c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  &nbsp; 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="Next.js" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  </a>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
 </div>
 
 ### 🛠️ Backend
