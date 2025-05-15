@@ -62,19 +62,27 @@
 
 ---
 
-## 📞 Contact
+## 🎓 Education
 
-- 📞 Phone: 061-286-3184  
-- ✉️ Email: sitthidech.t@psru.ac.th  
-- 📍 Address: 75/67 Moo 6, Aranyik Subdistrict, Mueang Phitsanulok District, Phitsanulok Province 65000, Thailand  
-- 🔗 Instagram: [@f_yui.01](https://instagram.com/f_yui.01)  
+- 🎓 *Bachelor’s Degree (Expected 2025)*  
+  **Computer Engineering**, Pibulsongkram Rajabhat University
+
+- 🎓 *Advanced Diploma (2022)*  
+  **Computer Business**, Phitsanulok Polytechnic College
 
 ---
 
-## 🎓 Education
+## 📞 Contact & Socials
 
-- 2025 – Pibulsongkram Rajabhat University  
-  Bachelor’s Degree in Computer Engineering (Expected Graduation)  
+<p align="left">
+  <a href="https://github.com/Foam-01" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/f_yui.01" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-- 2022 – Phitsanulok Polytechnic College  
-  Advanced Diploma in Computer Business  
+📱 **Phone:** 061-286-3184  
+📧 **Email:** sitthidech.t@psru.ac.th  
+📍 **Location:** Phitsanulok, Thailand
