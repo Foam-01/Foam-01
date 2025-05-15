@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Foam (Sittidech Thongsawang)
 
 🚀 I'm a person who loves learning new things and can quickly understand tasks.  
@@ -10,66 +8,35 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Foam-01&show_icons=true&theme=radical" alt="GitHub Stats" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Foam-01&theme=radical" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foam-01&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Foam-01&theme=radical)
 
 ---
 
 ## 💻 Programmer Skills
 
 ### 🖥️ Frontend
-
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
-</a>
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)  
+![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)  
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 
 ### 🛠️ Backend
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" />
-</a>
-<a href="https://nestjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50" />
-</a>
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)  
+![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)  
+![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg)
 
 ### 🗄️ Database
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
-</a>
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)  
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
 
 ### 📱 Mobile
-
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://reactnative.dev/img/header_logo.svg" width="50" />
-</a>
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" />
-</a>
+![React Native](https://reactnative.dev/img/header_logo.svg)  
+![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)
 
 ### ⚙️ DevOps & Cloud
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
-</a>
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)  
+![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg)  
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
 
 ---
 
@@ -95,14 +62,12 @@
 
 ## 🎓 Education
 
-🧑‍🎓 Pibulsongkram Rajabhat University *(2025)*  
+🧑‍🎓 **Pibulsongkram Rajabhat University** *(2025)*  
 Bachelor's Degree in Computer Engineering *(Expected)*
 
-🧑‍🎓 Phitsanulok Polytechnic College *(2022)*  
+🧑‍🎓 **Phitsanulok Polytechnic College** *(2022)*  
 Advanced Diploma in Computer Business
 
 ---
 
-⚡ **Fun Fact**: I may not always tell the best jokes… but I *always debug them* 😄
-
-</div>
+⚡ **Fun Fact:** I may not always tell the best jokes… but I *always debug them* 😄
