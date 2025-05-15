@@ -56,6 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;" alt="Netlify"/>
 </div>
 
 ---
