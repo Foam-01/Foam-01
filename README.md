@@ -64,4 +64,14 @@ Kubernetes, AWS, Google Cloud Platform (Concepts familiar)
 
 ---
 
+<p align="center">
+  Hello, I'm Foam 👋<br>
+  I am a person who loves learning new things and can quickly understand work.<br>
+  If given the opportunity, I will do my best to deliver quality work under time and constraints.
+</p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Foam-01&show_icons=true&count_private=true&theme=radical" alt="Foam's GitHub stats" />
+</p>
