@@ -87,6 +87,7 @@
 
 ---
 
-https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="150" alt="Dino" />
+
 
 ---
