@@ -15,7 +15,7 @@
 
 ---
 
-## 💻 Programmer Skills
+##  🌐 Web Development
 
 ### 🖥️ Frontend Development
 React.js • Next.js • Tailwind CSS
