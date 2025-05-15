@@ -24,7 +24,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" />
   <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="Next.js" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" />
+  <img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" alt="TailwindCSS" width="45" style="background-color: white; border-radius: 6px; padding: 4px;" />
+
 </p>
 
 ### 🛠️ Backend
