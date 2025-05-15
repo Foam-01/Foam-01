@@ -1,60 +1,73 @@
-## 💼 My Skill Set
+# 👋 Hi, I'm Foam (Sittidech Thongsawang)
 
-### 🖥️ Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-</p>
-
-### 🛠️ Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
-</p>
+🚀 I'm a person who loves learning new things and can quickly understand tasks.  
+🎯 I believe in growth through challenges — even if a task is new to me, I strive to deliver quality work under any constraints.  
+💼 My goal is to contribute valuable work under the name of your organization.
 
 ---
 
-## 🌐 Connect with Me
+## 💻 Programmer Skills
 
-<p align="left">
-  <a href="https://github.com/Foam-01" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/f_yui.01" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+### 🖥️ Frontend Development
+- React.js  
+- Next.js  
+- Tailwind CSS  
+
+### 🛠️ Backend Development
+- Node.js + Express (REST APIs, JWT Authentication, MVC/Service Layer)  
+- NestJS *(Basic – Currently Learning)*
+
+### 🗄️ Database
+- MongoDB  
+- PostgreSQL  
+
+### 📱 Mobile Development
+- React Native *(Basic – Currently Learning)*  
+- Flutter *(Basic – Currently Learning)*
+
+### ⚙️ DevOps & Deployment
+- Deployment: Netlify *(Hands-on experience)*  
+- CI/CD: GitHub Actions, GitLab CI *(Basic knowledge)*  
+- Docker *(Currently Learning)*  
+- Kubernetes, AWS, GCP *(Familiar with concepts)*
+
+---
+
+## 👤 Profile
+
+- **Full Name:** Mr. Sittidech Thongsawang  
+- **Nickname:** Foam  
+- **Birthday:** August 1, 2001  
+- **Nationality:** Thai  
+- **Ethnicity:** Thai  
+- **Religion:** Buddhist  
+
+---
+
+## 📞 Contact Me
+
+- 📱 Phone: 061-286-3184  
+- ✉️ Email: [sitthidech.t@psru.ac.th](mailto:sitthidech.t@psru.ac.th)  
+- 🏠 Address: 75/67 Moo 6, Aranyik Subdistrict, Mueang Phitsanulok District, Phitsanulok, 65000, Thailand  
+- 📸 Instagram: [@f_yui.01](https://instagram.com/f_yui.01)
+
+---
+
+## 🎓 Education
+
+- 🧑‍🎓 **Pibulsongkram Rajabhat University** *(2025)*  
+  Bachelor's Degree in Computer Engineering *(Expected Graduation)*  
+
+- 🧑‍🎓 **Phitsanulok Polytechnic College** *(2022)*  
+  Advanced Diploma in Computer Business  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foam-01&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foam-01&theme=radical" alt="GitHub Streak Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foam-01&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Foam-01&theme=radical)
 
 ---
 
-## 📝 Recent Blog Posts
-<!-- Replace this section with blog integration or links -->
-- 🚧 Coming soon...
+⚡ **Fun Fact**: I may not always tell the best jokes… but I *always debug them* 😄
