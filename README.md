@@ -28,9 +28,15 @@
 
 ### 🛠️ Backend
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;"/>
+  <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;" alt="Express.js" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;" alt="NestJS" />
+  </a>
 </div>
 
 ### 🗄️ Database
