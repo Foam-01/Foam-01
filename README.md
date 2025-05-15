@@ -28,9 +28,9 @@
 
 ### 🛠️ Backend
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;"/>
 </div>
 
 ### 🗄️ Database
