@@ -15,24 +15,61 @@
 
 ---
 
-##  🌐 Web Development
+## 💻 Programmer Skills
 
-### 🖥️ Frontend Development
-React.js • Next.js • Tailwind CSS
+### 🖥️ Frontend
 
-### 🛠️ Backend Development
-Node.js + Express (REST APIs, JWT Auth, MVC/Service Layer)  
-NestJS *(Basic – Currently Learning)*
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
+</a>
+
+### 🛠️ Backend
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" />
+</a>
+<a href="https://nestjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50" />
+</a>
 
 ### 🗄️ Database
-MongoDB • PostgreSQL
 
-### 📱 Mobile Development
-React Native *(Basic)* • Flutter *(Basic)*
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
+</a>
 
-### ⚙️ DevOps & Deployment
-Netlify (Hands-on) • GitHub Actions • GitLab CI *(Basic)*  
-Docker *(Learning)* • Kubernetes • AWS • GCP *(Conceptual)*
+### 📱 Mobile
+
+<a href="https://reactnative.dev/" target="_blank">
+  <img src="https://reactnative.dev/img/header_logo.svg" width="50" />
+</a>
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" />
+</a>
+
+### ⚙️ DevOps & Cloud
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
+</a>
 
 ---
 
