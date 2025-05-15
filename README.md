@@ -29,13 +29,13 @@
 ### 🛠️ Backend
 <div align="left">
   <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;" alt="Express.js" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" alt="Express.js" />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50" style="background-color: white; border-radius: 8px; padding: 6px; margin-right: 10px;" alt="NestJS" />
+    <img src="https://nestjs.com/img/logo-small.svg" width="50" alt="NestJS" />
   </a>
 </div>
 
