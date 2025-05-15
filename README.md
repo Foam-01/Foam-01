@@ -86,3 +86,7 @@
   *Advanced Diploma in Computer Business*
 
 ---
+
+https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif
+
+---
