@@ -16,25 +16,38 @@
 
 ## 💻 Programmer Skills
 
-### 🖥️ Frontend  
-React.js | Next.js | Tailwind CSS
+### 🖥️ Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+</p>
 
-### 🛠️ Backend  
-Node.js + Express (REST API, JWT Authentication, MVC/Service Layer)  
-NestJS (Basic – Currently Learning)
+### 🛠️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
+</p>
 
-### 🗄️ Database  
-MongoDB | PostgreSQL
+### 🗄️ Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
-### 📱 Mobile Development  
-React Native (Basic – Currently Learning)  
-Flutter (Basic – Currently Learning)
+### 📱 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+</p>
 
-### ⚙️ DevOps & Deployment  
-Netlify (Hands-on experience)  
-GitHub Actions | GitLab CI (Basic knowledge)  
-Docker (Currently Learning)  
-Kubernetes, AWS, Google Cloud Platform (Concepts familiar)
+### ⚙️ DevOps & Deployment
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -51,10 +64,10 @@ Kubernetes, AWS, Google Cloud Platform (Concepts familiar)
 
 ## 📞 Contact
 
-- Phone: 061-286-3184  
-- Email: sitthidech.t@psru.ac.th  
-- Address: 75/67 Moo 6, Aranyik Subdistrict, Mueang Phitsanulok District, Phitsanulok Province 65000, Thailand  
-- Instagram: [@f_yui.01](https://instagram.com/f_yui.01)  
+- 📞 Phone: 061-286-3184  
+- ✉️ Email: sitthidech.t@psru.ac.th  
+- 📍 Address: 75/67 Moo 6, Aranyik Subdistrict, Mueang Phitsanulok District, Phitsanulok Province 65000, Thailand  
+- 🔗 Instagram: [@f_yui.01](https://instagram.com/f_yui.01)  
 
 ---
 
@@ -65,5 +78,3 @@ Kubernetes, AWS, Google Cloud Platform (Concepts familiar)
 
 - 2022 – Phitsanulok Polytechnic College  
   Advanced Diploma in Computer Business  
-
----
