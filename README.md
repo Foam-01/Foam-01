@@ -6,14 +6,11 @@
 
 ---
 
+## 🔥 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Foam-01&show_icons=true&count_private=true&theme=radical" alt="Foam's GitHub stats" />
 </p>
-
----
-## 🔥 GitHub Stats
-
-![Foam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foam-01&show_icons=true&count_private=true&theme=radical)
 
 ---
 
@@ -70,5 +67,3 @@ Kubernetes, AWS, Google Cloud Platform (Concepts familiar)
   Advanced Diploma in Computer Business  
 
 ---
-
-
