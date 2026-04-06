@@ -4,11 +4,6 @@
 🎯 I believe growth comes from challenges — I strive to deliver quality results even under pressure.  
 💼 My goal is to contribute meaningful work under your organization’s name.
 
----
-
-
-
----
 
 
 ---
