@@ -1,7 +1,7 @@
 <h1 align="center">It's me, Foam. 👋</h1>
 
   <h3  >
-  💻 A passionate Computer Engineering student focusing on Mobile App Development and UI/UX 
+  💻 A driven Computer Engineering student focused on building modern mobile applications and intuitive user experiences.
   </h3>
 
 <p align="">
