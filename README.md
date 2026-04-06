@@ -1,8 +1,8 @@
 <h1 align="center">It's me, Foam. 👋</h1>
 
-  <h3  >
+  <h4  >
   💻 A driven Computer Engineering student focused on building modern mobile applications and intuitive user experiences.
-  </h3>
+  </h4>
 
 <p align="">
   <img src="https://komarev.com/ghpvc/?username=foam01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
