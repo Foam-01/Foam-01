@@ -1,21 +1,14 @@
-# 👋 Hi, I'm Foam (Sittidech Thongsawang)
+It's me, JOM. 👋
+📚 A passionate full-stack ML Engineer focusing on MLOps and ML Solution Architecture 📚
+jomariya23156
 
-🚀 I'm passionate about learning new technologies and adapting quickly to new tasks.  
-🎯 I believe growth comes from challenges — I strive to deliver quality results even under pressure.  
-💼 My goal is to leverage my skills to contribute impactful results and grow alongside your organization.
+💼 Working on JobGlance (a super cool extension to help your job hunt journey)
 
+🚀 On a mission to help people worldwide land their dream job faster easier
 
+⚡ Check out my portfolio! jomariya23156.github.io
 
----
-
-## 👤 Profile
-
-- **Full Name:** Mr. Sittidech Thongsawang  
-- **Nickname:** Foam  
-- **Birthday:** August 1, 2001  
-- **Nationality:** Thai  
-- **Ethnicity:** Thai  
-- **Religion:** Buddhist
+📫 Reach me jomariya.son@gmail.com
 
 ---
 
