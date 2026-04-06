@@ -1,16 +1,33 @@
- It's me, Foam. 👋
+<h1 align="center">It's me, Foam. 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=foam01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+💻 A passionate Computer Engineering student focusing on Mobile App Development and UI/UX <br>
+foam01
+</p>
+
 ---
 
-💻 A passionate Computer Engineering student focusing on Mobile App Development and UI/UX
-foam01
-
+<p align="center">
 💼 Currently working on mobile app projects and improving my development skills
+</p>
 
+<p align="center">
 🚀 On a mission to become a professional developer and build impactful applications
+</p>
 
-⚡ Check out my portfolio! ([ Portfolio ](https://portfoliof-01.netlify.app/))
+<p align="center">
+⚡ Check out my portfolio! <br>
+<a href="https://portfoliof-01.netlify.app/">[ Portfolio ]</a>
+</p>
 
+<p align="center">
 📫 Reach me: ddotdka4@gmail.com
+</p>
+
 
 ---
 
