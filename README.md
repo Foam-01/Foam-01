@@ -21,7 +21,7 @@
 </p>
 
 <p align="">
-⚡ Check out my portfolio! <br>
+⚡ Check out my portfolio! 
 <a href="https://portfoliof-01.netlify.app/">[ Portfolio ]</a>
 </p>
 
