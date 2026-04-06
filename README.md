@@ -16,14 +16,6 @@
 
 ---
 
-## 💻 Programmer Skills
-
-| 🖥️ Frontend | 🛠️ Backend | 🗄️ Database | 📱 Mobile | ⚙️ DevOps & Cloud |
-|-------------|------------|-------------|-----------|-------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="45"/><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="45"/><br>Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="45"/><br>MongoDB | <img src="https://reactnative.dev/img/header_logo.svg" title="React Native" width="45"/><br>React Native | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="45"/><br>Docker |
-| <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" title="Next.js" width="45"/><br>Next.js | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express.js" width="45"/><br>Express | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="45"/><br>PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" width="45"/><br>Flutter | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" width="45"/><br>Kubernetes |
-| <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" width="45"/><br>Tailwind | <img src="https://nestjs.com/img/logo-small.svg" title="NestJS" width="45"/><br>NestJS |  |  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="45"/><br>AWS |
-|  |  |  |  | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netlify" width="45"/><br>Netlify |
 
 ---
 
