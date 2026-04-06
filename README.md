@@ -1,4 +1,4 @@
-            It's me, Foam. 👋
+ It's me, Foam. 👋
 ---
 💻 A passionate Computer Engineering student focusing on Mobile App Development and UI/UX
 foam01
