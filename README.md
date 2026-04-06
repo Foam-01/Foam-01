@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=foam01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
+<p align="">
 💻 A passionate Computer Engineering student focusing on Mobile App Development and UI/UX <br>
 foam01
 </p>
