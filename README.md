@@ -26,7 +26,7 @@
 </p>
 
 <p align="">
-📫 [ddotdka4@gmail.com](mailto:ddotdka4@gmail.com) 
+📫 Reach me : [ddotdka4@gmail.com](mailto:ddotdka4@gmail.com)  
 </p>
 
 
