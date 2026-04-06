@@ -1,13 +1,15 @@
 <h1 align="center">It's me, Foam. 👋</h1>
 
 <p align="">
-  <img src="https://komarev.com/ghpvc/?username=foam01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="">
 💻 A passionate Computer Engineering student focusing on Mobile App Development and UI/UX <br>
 foam01
 </p>
+
+<p align="">
+  <img src="https://komarev.com/ghpvc/?username=foam01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+
 
 ---
 
