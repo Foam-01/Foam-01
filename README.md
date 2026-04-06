@@ -13,7 +13,7 @@
 ---
 
 <p align="">
-💼 Actively improving my skills through building real-world web applications
+💼 Continuously improving my skills while building modern web applications
 </p>
 
 <p align="">
