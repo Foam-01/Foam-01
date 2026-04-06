@@ -41,7 +41,7 @@
 
 ## 🎓 Education
 
-- 🎓 **Pibulsongkram Rajabhat University** *(2025)*  
+- 🎓 **Pibulsongkram Rajabhat University** *(2026)*  
   *Bachelor's Degree in Computer Engineering*
 
 - 🎓 **Phitsanulok Polytechnic College** *(2022)*  
