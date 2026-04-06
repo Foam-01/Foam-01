@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Foam. 👋</h1>
 
-  <h4  >
+  <h4 align="center" >
   📚 A driven Computer Engineering student focused on building modern mobile applications and intuitive user experiences. 📚
   </h4>
 
