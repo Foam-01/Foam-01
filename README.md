@@ -25,8 +25,8 @@
 <a href="https://portfoliof-01.netlify.app/">[ Portfolio ]</a>
 </p>
 
-<p align="">
-📫 Reach me : [ddotdka4@gmail.com](mailto:ddotdka4@gmail.com)  
+<p>
+📫 Reach me: [ddotdka4@gmail.com](mailto:ddotdka4@gmail.com)
 </p>
 
 
