@@ -7,7 +7,7 @@ foam01
 
 🚀 On a mission to become a professional developer and build impactful applications
 
-⚡ Check out my portfolio! (ใส่ลิงก์ GitHub / Portfolio มึงตรงนี้)
+⚡ Check out my portfolio! ([ Portfolio ](https://portfoliof-01.netlify.app/))
 
 📫 Reach me: ddotdka4@gmail.com
 
