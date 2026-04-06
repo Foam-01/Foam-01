@@ -1,15 +1,15 @@
-It's me, JOM. 👋
+            It's me, Foam. 👋
 ---
-📚 A passionate full-stack ML Engineer focusing on MLOps and ML Solution Architecture 📚
-jomariya23156
+💻 A passionate Computer Engineering student focusing on Mobile App Development and UI/UX
+foam01
 
-💼 Working on JobGlance (a super cool extension to help your job hunt journey)
+💼 Currently working on mobile app projects and improving my development skills
 
-🚀 On a mission to help people worldwide land their dream job faster easier
+🚀 On a mission to become a professional developer and build impactful applications
 
-⚡ Check out my portfolio! jomariya23156.github.io
+⚡ Check out my portfolio! (ใส่ลิงก์ GitHub / Portfolio มึงตรงนี้)
 
-📫 Reach me jomariya.son@gmail.com
+📫 Reach me: ddotdka4@gmail.com
 
 ---
 
