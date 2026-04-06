@@ -2,7 +2,7 @@
 
 🚀 I'm passionate about learning new technologies and adapting quickly to new tasks.  
 🎯 I believe growth comes from challenges — I strive to deliver quality results even under pressure.  
-💼 My goal is to contribute meaningful work under your organization’s name.
+💼 My goal is to leverage my skills to contribute impactful results and grow alongside your organization.
 
 
 
