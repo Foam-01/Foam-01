@@ -33,9 +33,7 @@
 ## 📞 Contact Me
 
 - 📱 061-286-3184  
-- ✉️ [ddotdka4@gmail.com](mailto:ddotdka4@gmail.com)  
-- 🏠 75/67 Moo 6, Aranyik, Mueang Phitsanulok, Thailand  
-- 📸 [@f_yui.01](https://instagram.com/f_yui.01)
+- ✉️ [ddotdka4@gmail.com](mailto:ddotdka4@gmail.com)   
 
 ---
 
