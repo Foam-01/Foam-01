@@ -34,6 +34,7 @@
 
 - 📱 061-286-3184  
 - ✉️ [ddotdka4@gmail.com](mailto:ddotdka4@gmail.com)   
+- 💼 Portfolio: https://portfoliof-01.netlify.app/ 
 
 ---
 
