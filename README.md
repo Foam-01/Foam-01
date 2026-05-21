@@ -39,11 +39,14 @@
 
 ## 🎓 Education
 
-- 🎓 **Pibulsongkram Rajabhat University** *(2026)*  
-  *Bachelor's Degree in Computer Engineering*
+- 🎓 **Pibulsongkram Rajabhat University** *(2023 – 2026)*  
+  *Bachelor’s Degree in Computer Engineering (GPA: 3.62)*
 
 - 🎓 **Phitsanulok Polytechnic College** *(2022)*  
-  *Advanced Diploma in Computer Business*
+  *Diploma / Advanced Diploma in Digital Business (GPA: 3.47)*
+  
+- 🎓 **Phitsanulok Polytechnic College** *(2017 – 2020)*  
+  *High School / Vocational Certificate in Business Computer (GPA: 2.99)*
 
 ---
 
