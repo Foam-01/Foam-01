@@ -1,7 +1,7 @@
 <h1 align="center">It's me, Foam. 👋</h1>
 
   <h4 align="center" >
-  📚 A driven Computer Engineering student focused on building modern web applications and intuitive user experiences. 📚
+  📚 A Full Stack Developer passionate about building modern web applications, solving problems, and continuously improving my skills. 📚
   </h4>
 
 <p align="">
