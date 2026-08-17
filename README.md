@@ -1,7 +1,7 @@
 <h1 align="center">It's me, Foam. 👋</h1>
 
   <h4 align="center" >
-  📚 A Full Stack Developer passionate about building modern web applications, solving problems, and continuously improving my skills. 📚
+  📚 A Full Stack Developer passionate about building modern web applications, solving problems, and continuously improving my skills.
   </h4>
 
 <p align="">
