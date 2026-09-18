@@ -12,20 +12,6 @@
 
 ---
 
-<p align="">
-💼 Continuously improving my skills while building modern web applications
-</p>
-
-<p align="">
-🚀 On a mission to become a professional developer and build impactful applications
-</p>
-
-<p align="">
-⚡ Check out my portfolio! 
-<a href="https://portfoliof-01.netlify.app/">[ Portfolio ]</a>
-</p>
-
-📫 Reach me: [ddotdka4@gmail.com](mailto:ddotdka4@gmail.com)
 
 
 ---
